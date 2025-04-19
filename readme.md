@@ -1,4 +1,4 @@
-# Characterization of the Coral CMOS Camera for Space Radiation Detection
+# COSMIC RAY CAMERA DISCOSAT-1: CMOS CHARACTERIZATION USING A PROTON BEAM
 
 ![Sample from Proton Beam Image](image_sample_data/224MeV_10_000MU.png)
 
