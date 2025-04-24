@@ -1,5 +1,4 @@
-# Cosmic Ray Camera DISCOSAT-1: 
-# CMOS Characterization using a proton beam
+# Cosmic Ray Camera DISCOSAT-1: CMOS Characterization using a proton beam
 
 ![Sample from Proton Beam Image](image_sample_data/224MeV_10_000MU.png)
 
